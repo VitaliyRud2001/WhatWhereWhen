@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatWhereWhen</string>
+    <string name="hint_for_URL">Ссылка на google sheet документ</string>
+    <string name="submit">Начать</string>
+</resources>
